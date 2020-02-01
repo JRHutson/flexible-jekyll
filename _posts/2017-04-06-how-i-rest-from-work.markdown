@@ -1,12 +1,23 @@
 ---
 layout: post
-title: How I Rest From Work
+title: Does Access To Transit Impact DUI's In Los Angeles
 date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Final Project completed for General Assembly Python course in fall of 2019. Exploratory Data Analysis attempts to identify any correlation between the availability of Mass Transit Alternatives and the rate of DUI arrests along 6 freeway segments in Los Angeles. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [Exploratory Data Analysis, Pandas, GeoPandas]
 ---
+***Tools Used:***
+1. Python
+2. Pandas
+3. GeoPandas
+
+
+[View a static version of the Jupyter Notebook](https://jrhutson.github.io/dui_rate_vs_transit/)
+
+[View the Github Repository](https://github.com/JRHutson/dui_rate_vs_transit)
+
+
 Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
 
 ## Plaid ramps kitsch woke pork belly
