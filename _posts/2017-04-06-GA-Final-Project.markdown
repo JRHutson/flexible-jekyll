@@ -20,6 +20,6 @@ tags: [Exploratory Data Analysis, Pandas, GeoPandas]
 
 When searching for datasets to work with for a class final project, I discovered that the City of Los Angeles Open Data Portal contains LAPD arrest records going back to 2010. A dataset with over a million rows made and appealing starting point to hone my Data Science skills. After browsing the data and noting the frequency of DUI incidents compared to other crimes, I decided to focus on those data points specifically. 
 
-Los Angeles attempts to rebuild an effective mass transit system, after the Red Car system made its geographic expansion more feasible, have facinated me since I moved to the city. I decided to combine this longstanding interest with my newly found dataset and explore whether there was any measurable impact on DUI incidents when there is a viable Mass Transit alternative available.
+Los Angeles attempts to rebuild an effective mass transit system, after the Red Car system made its geographic expansion more feasible, have fascinated me since I moved to the city. I decided to combine this longstanding interest with my newly found dataset and explore whether there was any measurable impact on DUI incidents when there is a viable Mass Transit alternative available.
 
 The Jupyter Notebook (linked above and in the Github Repo) follows my process to clean the data, identify additional datasets that I needed and test my hypothesis that the rate of DUI's would be lower on freeways that parallel a Metro Rail line.
