@@ -15,4 +15,4 @@ tags: [Python, Automation] # add tag
 [View the Github Repository](https://github.com/JRHutson/CraigslistHousing)
 
 
-This script was used to find my current apartment. It searches Craigslist for postings meeting my search criteria for size, rent, etc... I wanted to be near transit, so it then calculates the distance between the post Geotag and the nearest LA Metro Gold Line station. If the distance is less than the maximum distance set, the listing is posted to a Slack channel so that I would get notified on my phone. 
+This script was used to find my current apartment. It searches Craigslist for postings meeting my search criteria for size, rent, etc... My other criteria was being near transit, so it calculates the distance between the post Geotag and the nearest LA Metro L Line (Gold) station. If the distance is less than the maximum distance set, the listing is posted to a Slack channel to provide notification. 
